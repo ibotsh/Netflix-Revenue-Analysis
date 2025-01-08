@@ -8,7 +8,7 @@
 In this project, I used linear regression to analyze and forecast Netflix's streaming revenue in the US and Canada (UCAN) over time. The goal was to identify revenue trends, improve model accuracy with feature scaling, and predict future revenue growth.
 
 ## Requirements  
-- **Python**: 3.8+  
+- **Python**  
 - **Libraries**:  
   - `pandas`  
   - `matplotlib`  
