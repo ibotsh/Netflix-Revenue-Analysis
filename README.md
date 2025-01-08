@@ -2,6 +2,8 @@
 
 ![Figure_1](https://github.com/user-attachments/assets/9da0910d-a1a7-41ac-abaf-8c56fafc6c54)
 
+[Netflix Revenue Analysis.pdf](https://github.com/user-attachments/files/18340053/Netflix.Revenue.Analysis.pdf)
+
 ## Project Overview  
 In this project, I used linear regression to analyze and forecast Netflix's streaming revenue in the US and Canada (UCAN) over time. The goal was to identify revenue trends, improve model accuracy with feature scaling, and predict future revenue growth.
 
